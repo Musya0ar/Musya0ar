@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umar Musyaffa</h1>
 <h3 align="center">A passionate Tech explorer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musya0ar" alt="musya0ar" /></a> </p>
-
-- 📫 How to reach me **umar.musya.12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
